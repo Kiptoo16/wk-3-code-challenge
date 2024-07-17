@@ -3,7 +3,7 @@
 # Learning Goals
 
 Implement a 'mini' web application using JavaScript.
-# vercel link []
+# vercel link [https://wk-3-code-challenge-roan.vercel.app/]
 
 Introduction
 For this assessment, you'll be working on Flatdango. Flatiron Movie Theater is open for business! You will be building out an application, Flatdango, that allows a user to purchase movie tickets from the theater.
